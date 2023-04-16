@@ -1,0 +1,15 @@
+{
+  "name": "players-faker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.2.4",
+    "cpf-check": "^3.0.0",
+    "faker": "^6.6.6",
+    "hoaxer": "^1.0.0",
+    "moment": "^2.29.4",
+    "pg": "^8.10.0",
+    "pg-format": "^1.0.4"
+  }
+}
